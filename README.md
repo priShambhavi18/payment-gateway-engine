@@ -1,2 +1,2 @@
 # payment-gateway-engine
-Payment Gateway System
+Distributed Payment Gateway System
