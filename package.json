@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npm --prefix backend run start"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
